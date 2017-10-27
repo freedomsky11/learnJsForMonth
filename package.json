@@ -1,0 +1,11 @@
+{
+    "name": "test",
+    "dependencies": {
+        "joi": "13.0.1",
+        "moment": "^2.19.1",
+        "nodemailer": "^4.3.0",
+        "nodemailer-smtp-transport": "^2.7.4",
+        "ramda": "0.25.0",
+        "validator": "^9.0.0"
+    }
+}
