@@ -3,6 +3,7 @@
     "dependencies": {
         "joi": "13.0.1",
         "log4js": "^2.3.10",
+        "markdown-it": "^8.4.0",
         "moment": "^2.19.1",
         "nodemailer": "^4.3.0",
         "nodemailer-smtp-transport": "^2.7.4",
